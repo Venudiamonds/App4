@@ -3,8 +3,8 @@
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
    "app_AppOpenAdStatus":"0",
    "qureka":"https://www.gamezop.com/?id=R5h3Rry61",
-   "qureka_splash":"1",
-   "qureka_status":"1",
+   "qureka_splash":"0",
+   "qureka_status":"0",
    "qureka_ad_status":"0",
    "qureka_splash_link":"https://www.gamezop.com/?id=R5h3Rry61",
    "qureka_splash_status":"0",
@@ -21,5 +21,12 @@
    "topon_banner":"b62b92ad9786dd",
    "topon_inter1":"b62b92ad9dd45f",
    "topon_inter2":"b62b92ad9dd45f",
-   "topon_native":"b62b92ad911c0a"
+   "topon_native":"b62b92ad911c0a",
+   "FB_showAdStatus":"0",
+   "FB_bannernative":"0",
+   "FB_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_inter2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
